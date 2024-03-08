@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PrideOfWales
+- 👀 I’m interested in Python, HTML and CSS.
+- 🌱 I’m currently working on my Python knowledge.
+- 💞️ I’m looking to collaborate on some small python projects.
+- 📫 Reach me on Discord!
